@@ -10,6 +10,7 @@ class App extends Component {
   render() {
 
     return (
+      eslint-disable-next-line
       <div className="App">
         <header className="App-header">
           Now
